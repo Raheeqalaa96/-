@@ -59,10 +59,10 @@ li:hover
 }
 
 #navBar{
-    width: 25%!important;
+    width: 50%!important;
     position: absolute;
     top: 0;
-    left: -25%;
+    left: 0;
     background-color: whitesmoke;
      
 }
