@@ -1,0 +1,24 @@
+.mm-menu.mm-theme-black {
+				background: #ffffff;
+			}
+			
+			
+			.mm-navbar-size-3 a
+			{
+				border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+			}
+			
+			
+			.mm-listview a,
+			.mm-listview span {
+				color: rgba(255, 255, 255, 0.6);
+				text-align: center;
+				padding-right: 20px !important;
+			}
+			
+			.mm-listview li .fa {
+				position: absolute;
+				top: 1%;
+				left: 0px;
+				margin-top: -1px;
+			}

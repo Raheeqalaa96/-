@@ -1,0 +1,65 @@
+@media only screen and (max-width: 1279px){ 
+
+@font-face {
+font-family: Traditional Arabic;
+      src: url('tradbdo.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+}
+
+
+@font-face {
+      font-family: TraditionalArabic;
+      src: url('trado.ttf') format('truetype');
+}
+
+@font-face {
+      font-family: TraditionalArabicBold;
+    
+
+}
+
+bodym{
+
+      font-style:normal;
+      font-weight:normal;
+
+}
+
+@font-face {
+      font-family: TraditionalArabic;
+      font-weight: normal;
+      font-style: normal;
+}
+
+
+ .title1{
+
+      font-family: 'TraditionalArabic';
+      padding:0;
+      margin:0;
+      min-width:900px;
+      min-height:650px;
+}
+
+ .title2{
+
+      font-family: 'TraditionalArabic';
+      padding:0;
+      margin:0;
+      min-width:900px;
+      min-height:650px;
+}
+
+ .title3{
+
+      padding:0;
+      margin:0;
+      min-width:1000px;
+      min-height:650px;
+      font-size:16pt;
+}
+
+
+
+}

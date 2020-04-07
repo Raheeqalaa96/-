@@ -1,0 +1,79 @@
+#navBar
+{
+  text-align: center;
+}
+
+
+a:link {
+    color: #990000;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: #990000;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #990000;
+    text-decoration: none;
+  }
+
+  BODY {
+    SCROLLBAR-BASE-COLOR: #681a18;
+    SCROLLBAR-ARROW-COLOR: #591a11;
+    SCROLLBAR-HIGHLIGHT-COLOR: #fcfcac;
+    SCROLLBAR-3DLIGHT-COLOR: #681a18;
+    SCROLLBAR-FACE-COLOR: #681a18;
+    SCROLLBAR-SHADOW-COLOR: #fcfcac;
+    SCROLLBAR-TRACK-COLOR: #691a11;
+    overflow-x: hidden;
+  }
+  /*//////////////////////////////////////////////  codh////////////////////////////////////////////*/
+  ul{
+
+    list-style-type: none;
+  }
+.mm-menu a:visited
+{
+    color:transparent !important;
+    display: none;
+}
+.mm-sectionindexer 
+{
+
+    color:transparent !important;
+    display: none!important;
+}
+.mm-listitem:after
+{
+border-bottom: none!important;
+}
+li{
+    border-bottom: 1.5px solid rgba(110, 108, 108, 0.2) !important;
+    transition:background-color;
+}
+li:hover
+{
+    background-color: rgba(110, 108, 108, 0.2) !important;
+}
+
+#navBar{
+    width: 25%!important;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: whitesmoke;
+     
+}
+
+#allWeb{
+    display: flex;
+    align-items: flex-start;
+
+}
+
+/* .mystyle1{
+    display: none;
+} */
