@@ -61,18 +61,15 @@ li:hover
 
 #navBar{
     width: 50%!important;
-    position: absolute;
+    position: absolute !important ;
     top: 0;
     left: 0;
     background-color: whitesmoke;
      
 }
 
-#allWeb{
-    display: flex;
-    align-items: flex-start;
 
-}
+
 
 .mystyle1{
     display: none;
